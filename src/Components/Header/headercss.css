@@ -1,0 +1,15 @@
+.containerHeader {
+  display: flex;
+  height: 50px;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #2875a8;
+  margin: 10px 5px;
+}
+
+.buttonHeader {
+  background: transparent;
+  border: none;
+  color: white;
+  font-size: large;
+}

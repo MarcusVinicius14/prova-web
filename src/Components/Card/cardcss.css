@@ -1,0 +1,16 @@
+.containerCard {
+  border: 1px solid #cfcfcf;
+}
+
+.buttonCard {
+  width: 100px;
+  height: 20px;
+  background-color: rgb(48, 95, 155);
+  border: none;
+  color: white;
+}
+
+.h1Card {
+  font-size: large;
+  font-weight: 600;
+}
